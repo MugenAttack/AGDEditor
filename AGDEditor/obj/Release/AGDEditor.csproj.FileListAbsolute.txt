@@ -1,0 +1,9 @@
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\bin\Release\AGDEditor.exe.config
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\bin\Release\AGDEditor.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\bin\Release\AGDEditor.pdb
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\obj\Release\AGDEditor.csprojResolveAssemblyReference.cache
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\obj\Release\AGDEditor.Form1.resources
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\obj\Release\AGDEditor.Properties.Resources.resources
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\obj\Release\AGDEditor.csproj.GenerateResource.Cache
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\obj\Release\AGDEditor.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\AGDEditor\AGDEditor\obj\Release\AGDEditor.pdb
